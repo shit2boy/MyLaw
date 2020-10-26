@@ -9,31 +9,17 @@ import {
   Legend,
   ResponsiveContainer,
 } from "recharts";
-import { data } from "./data";
+// import { data } from "./data";
 
 export default class DataVisual extends Component {
-  //   static jsfiddleUrl = "https://jsfiddle.net/alidingling/1p40zzfe/";
-
   state = {
     opacity: {
       active: 1,
       New: 1,
       closed: 1,
-      data: [],
+      data: this.props.data,
     },
   };
-
-  //   componentDidUpdate() {
-  // this.setState({ data: data["febuary"] });
-  // let dataDetails = data;
-  //   for (let index = 0; index < data.length; index++) {
-  //     const element = data[index];
-  //     //   this.setState({ data: element });
-  //     console.log(this.state.data);
-  //     console.log(element);
-  //     console.log(data[index]);
-  //   }
-  //   }
 
   handleMouseEnter = (o) => {
     const { dataKey } = o;
@@ -58,14 +44,14 @@ export default class DataVisual extends Component {
 
     return (
       <div
-        className="shadow container text-center"
+        className="shadow-lg p-3 container-lg text-center"
         style={{ width: "80%", height: 300 }}
       >
         <ResponsiveContainer>
           <LineChart
             width={600}
-            height={350}
-            data={data["march"]}
+            height={250}
+            data={this.props.data}
             margin={{
               top: 15,
               right: 30,
@@ -73,7 +59,7 @@ export default class DataVisual extends Component {
               bottom: 5,
             }}
           >
-            <CartesianGrid strokeDasharray="1 1" />
+            <CartesianGrid strokeDasharray="5 5" />
             <XAxis dataKey="name" />
             <YAxis />
             <Tooltip />
@@ -82,24 +68,27 @@ export default class DataVisual extends Component {
               onMouseLeave={this.handleMouseLeave}
             />
             <Line
+              name="Active cases"
               type="monotone"
-              dataKey="active"
-              strokeOpacity={opacity.active}
+              dataKey="Active"
+              strokeOpacity={opacity.Active}
               stroke="#8884d8"
-              //   activeDot={{ r: 8 }}
+              activeDot={{ r: 8 }}
             />
             <Line
+              name="Closed cases"
               type="monotone"
               dataKey="closed"
               strokeOpacity={opacity.closed}
-              stroke="#8884d8"
-              //   activeDot={{ r: 8 }}
+              stroke="#c4201b"
+              activeDot={{ r: 8 }}
             />
             <Line
+              name="New cases"
               type="monotone"
               dataKey="New"
               strokeOpacity={opacity.new}
-              stroke="#82ca9d"
+              stroke="#0fec73"
             />
           </LineChart>
           {/* <p className="notes">Tips: Hover the legend !</p> */}

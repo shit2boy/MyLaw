@@ -14,7 +14,6 @@ export class NavigationBar extends Component {
           // variant="#ffffff"
         >
           <Navbar.Brand
-            className="d-none d-lg-inline"
             style={{ position: "relative", left: "13%" }}
             href="#home"
           >

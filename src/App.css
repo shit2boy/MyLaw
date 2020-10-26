@@ -1,5 +1,12 @@
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+}
+
+@font-face {
+  font-family: helveticaneue;
+  src: url(helveticaneue.woff);
 }
 
 .navbar {
@@ -38,7 +45,7 @@
   background: #0e163d;
   margin-bottom: 0%;
   border-radius: 50%;
-  color: #e9ecef;
+  color: #efede9;
   padding: 20px;
 }
 
@@ -47,3 +54,13 @@
   border-radius: 5px;
   margin-left: 70px;
 }
+@media screen and (max-width: 480px) {
+  .result {
+    margin-left: 0px;
+    padding: 20px;
+  }
+  .logo-background {
+    display: none;
+  }
+}
+/* 0e163d */

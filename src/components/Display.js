@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Dropdown from "react-bootstrap/Dropdown";
-import { data } from "./data";
+// import { data } from "./data";
 
 export class Display extends Component {
   render() {
@@ -25,16 +25,22 @@ export class Display extends Component {
             variant="default"
             style={{ background: "#ddd", border: "1px solid" }}
           >
-            This Month
+            {this.props.month}
           </Dropdown.Toggle>
 
-          {/* {data.map((month, index) => ( */}
           <Dropdown.Menu>
-            <Dropdown.Item href="#/action-1">month</Dropdown.Item>
-            {/* <Dropdown.Item href="#/action-2">{month}</Dropdown.Item> */}
-            {/* <Dropdown.Item href="#/action-3">Something else</Dropdown.Item> */}
+            {this.props.data.map((month, index) => (
+              <Dropdown.Item
+                as="button"
+                onClick={() => {
+                  this.props.monthInView(month);
+                }}
+                key={index}
+              >
+                {month}
+              </Dropdown.Item>
+            ))}
           </Dropdown.Menu>
-          {/* ))} */}
         </Dropdown>
       </div>
     );
