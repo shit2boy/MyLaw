@@ -44,8 +44,8 @@ export default class DataVisual extends Component {
 
     return (
       <div
-        className="shadow-lg p-3 container-lg text-center"
-        style={{ width: "80%", height: 300 }}
+        className="shadow-lg p-3 container-lg graph text-center"
+        style={{ minWidth: "80%", height: 300 }}
       >
         <ResponsiveContainer>
           <LineChart
