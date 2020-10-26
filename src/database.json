@@ -1,0 +1,759 @@
+{
+  "january": [
+    {
+      "name": "Parkson",
+      "Active": 15,
+      "close": 14,
+      "New": 4,
+      "won": 18
+    },
+    {
+      "name": "Mark",
+      "Active": 12,
+      "closed": 9,
+      "New": 3,
+      "won": 10
+    },
+    {
+      "name": "Fashola",
+      "Active": 14,
+      "closed": 9,
+      "New": 1,
+      "won": 20
+    },
+    {
+      "name": "Keyamo",
+      "Active": 14,
+      "closed": 13,
+      "New": 3,
+      "won": 2
+    },
+    {
+      "name": "Fola",
+      "Active": 7,
+      "closed": 4,
+      "New": 5,
+      "won": 6
+    },
+    {
+      "name": "Abolade",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won": 2
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 2,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 9,
+      "closed": 9,
+      "New": 5,
+      "won": 17
+    },
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 14,
+      "closed": 5,
+      "New": 7,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 18,
+      "closed": 9,
+      "New": 5,
+      "won": 19
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Akpata",
+      "Active": 11,
+      "closed": 15,
+      "New": 15,
+      "won": 19
+    }
+  ],
+  "febuary": [
+    {
+      "name": "Mark",
+      "Active": 3,
+      "closed": 5,
+      "New": 3,
+      "won": 10
+    },
+
+    {
+      "name": "Keyamo",
+      "Active": 4,
+      "closed": 3,
+      "New": 3,
+      "won": 2
+    },
+    {
+      "name": "Parkson",
+      "Active": 5,
+      "close": 4,
+      "New": 4,
+      "won": 12
+    },
+    {
+      "name": "Folunrosho",
+      "Active": 7,
+      "closed": 4,
+      "New": 5,
+      "won": 6
+    },
+    {
+      "name": "Abolade",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Fashola",
+      "Active": 14,
+      "closed": 9,
+      "New": 1,
+      "won": 20
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won": 2
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 2,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 9,
+      "closed": 9,
+      "New": 5,
+      "won": 17
+    },
+
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 14,
+      "closed": 5,
+      "New": 7,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 18,
+      "closed": 9,
+      "New": 5,
+      "won": 19
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Akpata",
+      "Active": 8,
+      "closed": 10,
+      "New": 5,
+      "won": 9
+    }
+  ],
+  "march": [
+    {
+      "name": "Mark",
+      "Active": 13,
+      "closed": 15,
+      "New": 8,
+      "won": 11
+    },
+
+    {
+      "name": "Keyamo",
+      "Active": 14,
+      "closed": 13,
+      "New": 9,
+      "won": 12
+    },
+    {
+      "name": "Parkson",
+      "Active": 5,
+      "close": 4,
+      "New": 4,
+      "won": 12
+    },
+    {
+      "name": "Folunrosho",
+      "Active": 7,
+      "closed": 14,
+      "New": 15,
+      "won": 16
+    },
+    {
+      "name": "Abolade",
+      "Active": 2,
+      "closed": 5,
+      "New": 15,
+      "won": 9
+    },
+    {
+      "name": "Fashola",
+      "Active": 19,
+      "closed": 12,
+      "New": 11,
+      "won": 20
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won": 2
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 2,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 19,
+      "closed": 9,
+      "New": 5,
+      "won": 9
+    },
+
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 10,
+      "closed": 15,
+      "New": 17,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 8,
+      "closed": 19,
+      "New": 5,
+      "won": 20
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Akpata",
+      "Active": 8,
+      "closed": 10,
+      "New": 5,
+      "won": 9
+    }
+  ],
+  "april": [
+    {
+      "name": "Mark",
+      "Active": 3,
+      "closed": 5,
+      "New": 3,
+      "won": 10
+    },
+
+    {
+      "name": "Keyamo",
+      "Active": 4,
+      "closed": 3,
+      "New": 3,
+      "won": 2
+    },
+    {
+      "name": "Parkson",
+      "Active": 5,
+      "close": 4,
+      "New": 4,
+      "won": 12
+    },
+    {
+      "name": "Folunrosho",
+      "Active": 7,
+      "closed": 4,
+      "New": 5,
+      "won": 6
+    },
+    {
+      "name": "Abolade",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Fashola",
+      "Active": 14,
+      "closed": 9,
+      "New": 1,
+      "won": 20
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won":6
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 12,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 9,
+      "closed": 9,
+      "New": 5,
+      "won": 17
+    },
+
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 14,
+      "closed": 5,
+      "New": 7,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 18,
+      "closed": 9,
+      "New": 5,
+      "won": 19
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Akpata",
+      "Active": 8,
+      "closed": 10,
+      "New": 5,
+      "won": 9
+    }
+  ],
+  "may": [
+    {
+      "name": "Parkson",
+      "Active": 15,
+      "close": 14,
+      "New": 4,
+      "won": 18
+    },
+    {
+      "name": "Mark",
+      "Active": 12,
+      "closed": 9,
+      "New": 3,
+      "won": 10
+    },
+    {
+      "name": "Fashola",
+      "Active": 14,
+      "closed": 9,
+      "New": 1,
+      "won": 20
+    },
+    {
+      "name": "Keyamo",
+      "Active": 14,
+      "closed": 13,
+      "New": 3,
+      "won": 2
+    },
+    {
+      "name": "Fola",
+      "Active": 7,
+      "closed": 4,
+      "New": 5,
+      "won": 6
+    },
+    {
+      "name": "Abolade",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won": 2
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 2,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 9,
+      "closed": 9,
+      "New": 5,
+      "won": 17
+    },
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 14,
+      "closed": 5,
+      "New": 7,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 18,
+      "closed": 9,
+      "New": 5,
+      "won": 19
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Akpata",
+      "Active": 11,
+      "closed": 15,
+      "New": 15,
+      "won": 19
+    }
+  ],
+  "june": [
+    {
+      "name": "Mark",
+      "Active": 13,
+      "closed": 15,
+      "New": 8,
+      "won": 11
+    },
+
+    {
+      "name": "Keyamo",
+      "Active": 14,
+      "closed": 13,
+      "New": 9,
+      "won": 12
+    },
+    {
+      "name": "Parkson",
+      "Active": 5,
+      "close": 4,
+      "New": 4,
+      "won": 12
+    },
+    {
+      "name": "Folunrosho",
+      "Active": 7,
+      "closed": 14,
+      "New": 15,
+      "won": 16
+    },
+    {
+      "name": "Abolade",
+      "Active": 2,
+      "closed": 5,
+      "New": 15,
+      "won": 9
+    },
+    {
+      "name": "Fashola",
+      "Active": 19,
+      "closed": 12,
+      "New": 11,
+      "won": 20
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won": 2
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 2,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 19,
+      "closed": 9,
+      "New": 5,
+      "won": 9
+    },
+
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 10,
+      "closed": 15,
+      "New": 17,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 8,
+      "closed": 19,
+      "New": 5,
+      "won": 20
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Akpata",
+      "Active": 8,
+      "closed": 10,
+      "New": 5,
+      "won": 9
+    }
+  ],
+  "july": [
+    {
+      "name": "Parkson",
+      "Active": 15,
+      "close": 14,
+      "New": 4,
+      "won": 18
+    },
+    {
+      "name": "Mark",
+      "Active": 12,
+      "closed": 9,
+      "New": 5,
+      "won": 13
+    },
+    {
+      "name": "Fashola",
+      "Active": 14,
+      "closed": 7,
+      "New": 11,
+      "won": 20
+    },
+    {
+      "name": "Keyamo",
+      "Active": 9,
+      "closed": 17,
+      "New": 6,
+      "won": 2
+    },
+    {
+      "name": "Fola",
+      "Active": 17,
+      "closed": 14,
+      "New": 9,
+      "won": 16
+    },
+    {
+      "name": "Abolade",
+      "Active": 18,
+      "closed": 15,
+      "New": 9,
+      "won": 12
+    },
+    {
+      "name": "Charles",
+      "Active": 7,
+      "closed": 3,
+      "New": 5,
+      "won": 2
+    },
+    {
+      "name": "Kareem",
+      "Active": 15,
+      "closed": 13,
+      "New": 9,
+      "won": 22
+    },
+    {
+      "name": "Falana",
+      "Active": 4,
+      "closed": 7,
+      "New": 2,
+      "won": 2
+    },
+    {
+      "name": "Babalola",
+      "Active": 9,
+      "closed": 9,
+      "New": 5,
+      "won": 17
+    },
+    {
+      "name": "Tanko",
+      "Active": 8,
+      "closed": 15,
+      "New": 6,
+      "won": 16
+    },
+    {
+      "name": "onwunjo",
+      "Active": 14,
+      "closed": 5,
+      "New": 7,
+      "won": 12
+    },
+    {
+      "name": "Yusuf",
+      "Active": 18,
+      "closed": 9,
+      "New": 5,
+      "won": 19
+    },
+    {
+      "name": "adeleke",
+      "Active": 8,
+      "closed": 5,
+      "New": 5,
+      "won": 12
+    },
+    {
+      "name": "Akpata",
+      "Active": 11,
+      "closed": 15,
+      "New": 15,
+      "won": 19
+    }
+  ]
+}
