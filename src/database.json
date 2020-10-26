@@ -1,5 +1,5 @@
-{
-  "january": [
+[
+  {"january": [
     {
       "name": "Parkson",
       "Active": 15,
@@ -105,8 +105,9 @@
       "New": 15,
       "won": 19
     }
-  ],
-  "febuary": [
+  ]},
+
+  {"febuary": [
     {
       "name": "Mark",
       "Active": 3,
@@ -214,8 +215,9 @@
       "New": 5,
       "won": 9
     }
-  ],
-  "march": [
+  ]},
+
+  {"march": [
     {
       "name": "Mark",
       "Active": 13,
@@ -323,8 +325,9 @@
       "New": 5,
       "won": 9
     }
-  ],
-  "april": [
+  ]},
+
+  {"april": [
     {
       "name": "Mark",
       "Active": 3,
@@ -432,8 +435,8 @@
       "New": 5,
       "won": 9
     }
-  ],
-  "may": [
+  ]},
+  {"may": [
     {
       "name": "Parkson",
       "Active": 15,
@@ -539,8 +542,9 @@
       "New": 15,
       "won": 19
     }
-  ],
-  "june": [
+  ]},
+
+  {"june": [
     {
       "name": "Mark",
       "Active": 13,
@@ -648,8 +652,9 @@
       "New": 5,
       "won": 9
     }
-  ],
-  "july": [
+  ]},
+
+  {"july": [
     {
       "name": "Parkson",
       "Active": 15,
@@ -755,5 +760,5 @@
       "New": 15,
       "won": 19
     }
-  ]
-}
+  ]}
+]
