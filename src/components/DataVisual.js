@@ -55,8 +55,8 @@ export default class DataVisual extends Component {
             margin={{
               top: 15,
               right: 30,
-              left: 20,
-              bottom: 5,
+              left: 30,
+              bottom: 15,
             }}
           >
             <CartesianGrid strokeDasharray="5 5" />
@@ -73,7 +73,7 @@ export default class DataVisual extends Component {
               dataKey="Active"
               strokeOpacity={opacity.Active}
               stroke="#8884d8"
-              activeDot={{ r: 8 }}
+              activeDot={{ r: 6 }}
             />
             <Line
               name="Closed cases"
@@ -81,7 +81,7 @@ export default class DataVisual extends Component {
               dataKey="closed"
               strokeOpacity={opacity.closed}
               stroke="#c4201b"
-              activeDot={{ r: 8 }}
+              activeDot={{ r: 6 }}
             />
             <Line
               name="New cases"
@@ -89,6 +89,7 @@ export default class DataVisual extends Component {
               dataKey="New"
               strokeOpacity={opacity.new}
               stroke="#0fec73"
+              activeDot={{ r: 6 }}
             />
           </LineChart>
           {/* <p className="notes">Tips: Hover the legend !</p> */}

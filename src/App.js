@@ -41,7 +41,7 @@ export default class App extends Component {
         console.error(err);
       });
   }
-  monthInView = (month) => {
+  handleMonthInView = (month) => {
     this.setState({ month });
     let object = this.state.data;
     // console.log(object);
@@ -59,7 +59,8 @@ export default class App extends Component {
         <NavigationBar />
         <Display
           data={this.state.months}
-          monthInView={this.monthInView}
+          selectedMonth={this.handleMonthInView}
+          monthInView={this.state.monthInView}
           month={this.state.month}
         />
         <DataVisual data={this.state.monthInView} />
